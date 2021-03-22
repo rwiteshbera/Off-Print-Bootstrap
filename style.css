@@ -1,0 +1,37 @@
+#heading-style-rb
+{
+    font-weight: bolder;
+}
+
+@media (min-width: 576px)
+{
+    #text-margin-rb
+    {
+        margin-top: 350px;
+    }
+}
+@media (max-width: 576px)
+{
+    #text-margin-rb
+    {
+        margin-top: 250px;
+    }
+}
+@media (max-width: 360px)
+{
+    #text-margin-rb
+    {
+        margin-top:150px;
+    }
+}
+
+.card-body
+{
+    padding: 3rem;
+}
+
+#form1Example1
+{
+    border: 2px solid black;
+    width: 30rem;
+}
