@@ -16,7 +16,7 @@ function validateForm() {
         return false;
     }
     else {
-        document.getElementById("alertBody-RB").innerHTML = "Thank you for joining our newsletter.";
+        document.getElementById("alertBody-RB").innerHTML = "Thank you for subscribing our newsletter.";
         document.getElementById("exampleModalLabel").innerHTML = "Alert";
     }
 }
