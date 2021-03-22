@@ -1,5 +1,5 @@
 # Off-Print-Bootstrap
-## I have designed a landing page of a business website 'OffPrint" specifically for startup, apps and IT services using Bootstrap framework.
+### I have designed a landing page of a business website 'OffPrint" specifically for startup, apps and IT services using Bootstrap framework.
 
 ![Screenshot-1](https://user-images.githubusercontent.com/73098407/112017122-56382a80-8b53-11eb-86ea-53ca9eb0f080.png)
 
