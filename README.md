@@ -9,4 +9,4 @@
 
 ![Screenshot-3](https://user-images.githubusercontent.com/73098407/112017134-59331b00-8b53-11eb-8fc0-ee467694e45c.png)
 
-[![Rwitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rwiteshbera)](https://github.com/rwteshbera/github-readme-stats)
+
